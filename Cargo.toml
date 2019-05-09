@@ -3,5 +3,6 @@ name = "alpha_sim"
 version = "0.1.0"
 authors = ["Haorna Wang <waharaxn@gmail.com>"]
 edition = "2018"
+description = "An Alpha Architecture Processor Simulator"
 
 [dependencies]
